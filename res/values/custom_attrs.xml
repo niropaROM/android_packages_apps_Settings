@@ -24,4 +24,9 @@
         <attr name="unitsLeft" format="string|reference" />
         <attr name="unitsRight" format="string|reference" />
     </declare-styleable>
+
+<!-- Development Settings -->
+    <!-- Dev Options Enabled by Default -->
+    <string name="show_dev_already_enabled">No Need, Development settings are enabled by default.</string>
+
 </resources>
